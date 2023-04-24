@@ -135,6 +135,22 @@ Backwaters and beach meet here. It's the first time I ever saw that.
 </html>
 ```
 ## Output:
-
+DAE TOWNSHIP,KALPAKKAM, KANCHIPURAM, TAMIL NADU (TN), India (IN), Pin Code:- 603102
+![map](https://user-images.githubusercontent.com/119559366/234059217-cc3189de-77b5-48ea-b12b-e5298a6ebf5d.png)
+![ground](https://user-images.githubusercontent.com/119559366/234059359-b2b31d9e-6d39-4ec7-9b06-c14721bf6454.png)
+Good place to jog at evening and morning.The ground's circumfrence is about 400-440m.Walk as a group it would be lovely basking in twilight and sharing a small gossip with walk buddies.
+![township](https://user-images.githubusercontent.com/119559366/234059387-9bdb230b-2161-45e1-9819-d4b6d34561ae.png)
+The place is of full hygiene and hospital is very near for the people, this area is of central government employees township so area is maintained very clean and slient.there we have children enjoying parks and beach cool air. Schools and market are in walkable distance.
+        Here all the facilities are provided by the DAE at good rates. One main positive things about my locality is that all the basic amenities like hospital, departmental stores, banks and park are available inside the township. Even during this pandemic time, we never felt any kind of problems and all sort of help was provided. We even have a beach inside the township which provides a refreshing environment after a long day in the office.  
+![myschool](https://user-images.githubusercontent.com/119559366/234059438-dbca841e-dea6-4466-bece-dd7386915f66.png)
+Kendriya Vidyalaya No 1 Kalpakkam, is a Senior Secondary School (XI-XII), affiliated to Central Board of Secondary Education (CBSE). The School is a Coed Day School, with classes from I to XII. It is an English Medium school. The school is located in DAE Township area of Kalpakkam, Tamil Nadu. Kendriya Vidyalaya No 1 was established in 1970. It is a Government School and is part of Kendriya Vidyalaya Sangathan (KVS) and is managed by Public Sector Undertaking. 
+![temple](https://user-images.githubusercontent.com/119559366/234059501-7e4a3894-093f-48e8-b604-c9652328f9c2.png)
+It is one of the largest pilgrimage temple in the city with many devotees visiting every day.This is a nice temple for Lord Ayyappan, one of the powerful Gods. Must visit place for Lord Ayyappa devotees.
+![beach](https://user-images.githubusercontent.com/119559366/234059523-9c24ee49-862a-4d30-9f9c-917c89a267d1.png)
+ Very beautiful beach. Long and reasonably clean. Best thing was the lack of crowds making it an attractive place. No intrusive vendors and litter.
+The Kalpakam reactor in the background is the pride of India.
+Road side parking available and short walk to beach.
+The tree growth in background seems long and undisturbed adding to beauty of the beach.
+Backwaters and beach meet here. It's the first time I ever saw that. 
 ## Result:
 Hence a website has been developed to display details about the places around my house.
