@@ -136,6 +136,5 @@ Backwaters and beach meet here. It's the first time I ever saw that.
 ```
 ## Output:
 
-
 ## Result:
 Hence a website has been developed to display details about the places around my house.
