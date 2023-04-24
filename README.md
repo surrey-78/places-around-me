@@ -21,7 +21,7 @@ Next start the server from the projects main directory using python3 manage.py r
 
 ## Code:
 ### index.html
-
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -42,9 +42,10 @@ Next start the server from the projects main directory using python3 manage.py r
 </map>
     </body>
     </html>
+```
     
 ### ground.html
-
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -59,9 +60,9 @@ Next start the server from the projects main directory using python3 manage.py r
     </body>
 
 </html>
-
+```
 ### township.html
-
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -77,9 +78,9 @@ Next start the server from the projects main directory using python3 manage.py r
     </body>
 
 </html>
-
+```
 ### myschool.html
-
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -94,9 +95,9 @@ Next start the server from the projects main directory using python3 manage.py r
     </body>
 
 </html>
-
+```
 ### temple.html
-
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -111,9 +112,9 @@ Next start the server from the projects main directory using python3 manage.py r
     </body>
 
 </html>
-
+```
 ### beach.html
-
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -132,7 +133,7 @@ Backwaters and beach meet here. It's the first time I ever saw that.
     </body>
 
 </html>
-
+```
 ## Output:
 
 
